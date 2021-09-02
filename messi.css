@@ -1,0 +1,52 @@
+@import 'https://www.w3schools.com/w3css/4/w3.css';
+
+body{
+    
+    
+}
+
+#dv1{
+    border-radius: 100px;
+    background-color:#062F4F;
+
+}
+#pid2{
+    text-align: center;
+}
+#pid3{
+    text-align: center;
+
+}
+#demo{
+    font-style: bold;
+    text-align: center;
+    font-weight:bold;
+    font-size: xx-large;
+    font-family: sans-serif;
+    color: black;
+    
+}
+#pid1{
+    text-align: center;
+    
+    
+}
+
+#as{
+    color: rgb(53, 36, 40);
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+#demo1{
+    font-size: large;
+    color: chocolate;
+
+}
+#st1{
+    font-size: 75px;
+}
+
+strong{
+    font-size: x-large;
+}
